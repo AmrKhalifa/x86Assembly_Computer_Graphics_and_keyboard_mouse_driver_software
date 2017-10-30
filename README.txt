@@ -1,0 +1,1 @@
+This project is about drawing simple shapes in the screen. 
